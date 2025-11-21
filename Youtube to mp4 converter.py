@@ -1,5 +1,5 @@
 # pip install yt-dlp imageio-ffmpeg pyinstaller
-# pyinstaller --onefile --noconsole --hidden-import=yt_dlp --hidden-import=imageio_ffmpeg "Youtube to mp4 converter.py."
+# pyinstaller --onefile --noconsole --hidden-import=yt_dlp --hidden-import=imageio_ffmpeg "Youtube to mp4 converter"
 
 import os
 import threading
